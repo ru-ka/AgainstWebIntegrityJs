@@ -1,5 +1,5 @@
 # AgainstWebIntegrityJs
-
+## DEPRECATED, See: https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html
 A simple script that you can embed on your website to support the cause!
 
 ![](thumbnail.jpg)
